@@ -5,4 +5,5 @@ package test;
  */
 public class Test {
     //注释
+    private int a = 0;
 }
